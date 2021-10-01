@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\DataAccessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\DataAccessor.csproj",
+        "projectName": "DataAccessor",
+        "projectPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\DataAccessor.csproj",
+        "packagesPath": "C:\\Users\\kehinde.disu\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kehinde.disu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsapp:8080/tfs/GTBankCollection/_packaging/GTNugetRepo/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "DatatableHelper": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2020.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\USSDTELCOCharge.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\USSDTELCOCharge.Data.csproj",
+        "projectName": "USSDTELCOCharge.Data",
+        "projectPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\USSDTELCOCharge.Data.csproj",
+        "packagesPath": "C:\\Users\\kehinde.disu\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kehinde.disu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsapp:8080/tfs/GTBankCollection/_packaging/GTNugetRepo/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\DataAccessor.csproj": {
+                "projectPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\DataAccessor\\DataAccessor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[27.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "DatatableHelper": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[5.6.4, )"
+            },
+            "EntityFramework.BulkInsert-ef6": {
+              "target": "Package",
+              "version": "[6.0.1.3, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
+            },
+            "OfficeOpenXml.Core.ExcelPackage": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "RavenDB.Database": {
+              "target": "Package",
+              "version": "[3.5.9, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2020.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service.csproj",
+        "projectName": "USSDTELCOCharge.Service",
+        "projectPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service.csproj",
+        "packagesPath": "C:\\Users\\kehinde.disu\\.nuget\\packages\\",
+        "outputPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kehinde.disu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://tfsapp:8080/tfs/GTBankCollection/_packaging/GTNugetRepo/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\USSDTELCOCharge.Data.csproj": {
+                "projectPath": "C:\\inetpub\\wwwroot\\TICT\\TelcoFromDataBaseToQueue\\USSDTELCOCharge.Service\\USSDTELCOCharge.Data\\USSDTELCOCharge.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "DatatableHelper": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "ExcelDataReader.DataSet": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.WindowsServices": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            },
+            "SSH.NET": {
+              "target": "Package",
+              "version": "[2020.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

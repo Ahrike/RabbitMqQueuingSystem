@@ -1,0 +1,12 @@
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\bin\Release\net5.0\DataAccessor.deps.json
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\bin\Release\net5.0\DataAccessor.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\bin\Release\net5.0\ref\DataAccessor.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\bin\Release\net5.0\DataAccessor.pdb
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.AssemblyInfo.cs
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\ref\DataAccessor.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\DataAccessor\obj\Release\net5.0\DataAccessor.pdb

@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\USSDTELCOCharge.Data.deps.json
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\USSDTELCOCharge.Data.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\ref\USSDTELCOCharge.Data.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\USSDTELCOCharge.Data.pdb
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\DataAccessor.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\bin\Release\net5.0\DataAccessor.pdb
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.csproj.AssemblyReference.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.AssemblyInfo.cs
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.csproj.CopyComplete
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\ref\USSDTELCOCharge.Data.dll
+C:\inetpub\wwwroot\telcocharge\MTN\USSDTELCOCharge.Service\USSDTELCOCharge.Data\obj\Release\net5.0\USSDTELCOCharge.Data.pdb
